@@ -1,17 +1,17 @@
 {
 	"development": {
-		"username": "rnstack",
-		"password": "rnstack",
-		"database": "rnstack",
-		"host": "localhost",
+		"username": "b3c9d54167dc90",
+		"password": "6cbecf9f",
+		"database": "heroku_a6665479b240eec",
+		"host": "us-cdbr-iron-east-02.cleardb.net",
 		"dialect": "mysql",
 		"port": "3306"
 	},
 	"test": {
-		"username": "rnstack",
-		"password": "rnstack",
-		"database": "rnstack",
-		"host": "localhost",
+		"username": "b3c9d54167dc90",
+		"password": "6cbecf9f",
+		"database": "heroku_a6665479b240eec",
+		"host": "us-cdbr-iron-east-02.cleardb.net",
 		"dialect": "mysql",
 		"port": "3306"
 	},
@@ -19,7 +19,7 @@
 		"username": "b3c9d54167dc90",
 		"password": "6cbecf9f",
 		"database": "heroku_a6665479b240eec",
-		"host": "b3c9d54167dc90:6cbecf9f@us-cdbr-iron-east-02.cleardb.net/heroku_a6665479b240eec?reconnect=true",
+		"host": "us-cdbr-iron-east-02.cleardb.net",
 		"dialect": "mysql",
 		"port": "3306"
 	}
