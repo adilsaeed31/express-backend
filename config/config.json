@@ -16,10 +16,10 @@
 		"port": "3306"
 	},
 	"production": {
-		"username": "becf3400502bf1",
-		"password": "e34cd863",
-		"database": "heroku_af85a2a1d1619c4",
-		"host": "becf3400502bf1:e34cd863@eu-cdbr-west-02.cleardb.net/heroku_af85a2a1d1619c4?reconnect=true",
+		"username": "b3c9d54167dc90",
+		"password": "6cbecf9f",
+		"database": "heroku_a6665479b240eec",
+		"host": "b3c9d54167dc90:6cbecf9f@us-cdbr-iron-east-02.cleardb.net/heroku_a6665479b240eec?reconnect=true",
 		"dialect": "mysql",
 		"port": "3306"
 	}
